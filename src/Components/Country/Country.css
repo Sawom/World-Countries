@@ -1,0 +1,9 @@
+.cardStyles{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 3px  lightgray;
+    border-radius: 15px;
+}
+.clr{
+    color: #062F8D;
+}

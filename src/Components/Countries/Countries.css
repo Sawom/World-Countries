@@ -1,0 +1,9 @@
+.countryStyle{
+    background: linear-gradient(to bottom left, #333300 19%, #333300 84%);
+    color: whitesmoke;
+    padding: 10px;
+}
+.countryStyle input{
+    width: 60%;
+    height: 40px;
+}
